@@ -1,0 +1,10 @@
+body{
+    background: url("../img/land.jpg") no-repeat ;
+    background-size: cover;
+}
+
+.parag{
+    font-family: 'Lacquer', sans-serif;
+    color: blueviolet;
+    margin-top: 10%;
+}
