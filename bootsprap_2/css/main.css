@@ -1,4 +1,4 @@
-body{
+.body1{
     background: url("../img/land.jpg") no-repeat ;
     background-size: cover;
 }
@@ -7,4 +7,21 @@ body{
     font-family: 'Lacquer', sans-serif;
     color: blueviolet;
     margin-top: 10%;
+}
+
+.imag{
+    height: 80px;
+    width: 150px;
+}
+
+/*    second page    */
+.parag2{
+    font-family: 'Currier';
+    color: #c9c61fea ;
+    margin-top: 10%;
+}
+
+.body2{
+    background: url("../img/lily.jpg") no-repeat ;
+    background-size: cover;
 }
