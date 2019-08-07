@@ -1,0 +1,15 @@
+.mainBody{
+    margin: 5px;
+    min-height: 300px;
+    text-align: center;
+    background-color: sienna;
+}
+.leftB {
+    background-color: aquamarine;
+}
+.middleB{
+    background-color: burlywood;
+}
+.rightB{
+    background-color: cornflowerblue;
+}
